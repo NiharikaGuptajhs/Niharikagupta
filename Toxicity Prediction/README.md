@@ -1,4 +1,4 @@
-# ADMETlab
+# Toxicity Prediction
 A platform for systematic ADME evaluation of drug molecules, thereby accelerating the drug discovery process.<br>
 The platform is avaliable at: http://admet.scbdd.com 
 (Note: the pgp-substrate model have been fixed, also the correct model has been updated in webserver)
